@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run vehicle classification prediction web app.py
